@@ -1,0 +1,25 @@
+{
+  "Elysium Maxim": {
+    "hull": "elysium:maxim",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 elysium:topGun-1 elysium:topGun-2 99*elysium:aquaClip",
+    "money": 200
+  },
+
+  "Elysium Malcolm": {
+    "hull": "elysium:malcolm",
+    "items": "3*rep core:lightArmor-1 core:smallShield-1 elysium:topGun-1 elysium:topGun-2 99*elysium:aquaClip",
+    "money": 2000
+  },
+
+  "Elysium Beckham": {
+    "hull": "elysium:beckham",
+    "items": "99*rep core:lightArmor-1 core:smallShield-1 elysium:topGun-1 elysium:topGun-2 99*core:bulletClip",
+    "money": 10000
+  },
+
+  "Elysium Callum": {
+    "hull": "elysium:callum",
+    "items": "99*rep core:lightArmor-1 core:smallShield-1 elysium:topGun-1 elysium:topGun-2 99*core:bulletClip",
+    "money": 20
+  }
+}

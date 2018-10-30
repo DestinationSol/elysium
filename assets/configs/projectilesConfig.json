@@ -1,0 +1,19 @@
+{
+  "aqua": {
+    "dmg": 50,
+    "dmgType": "energy",
+    "spdLen": 6,
+
+    "tex": "elysium:aqua",
+    "texSz": 0.12,
+
+    "collisionEffect": {
+      "effectFile": "core:explFire",
+      "size": 0.1,
+      "tex": "core:fire",
+      "tint": "120 210 90"
+    },
+
+    "collisionSound": "core:blastCollision"
+  }
+}
