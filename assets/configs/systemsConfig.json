@@ -1,0 +1,42 @@
+{
+  "hard": {
+    "hard": true,
+    "constantAllies": [
+      {
+        "hull": "elysium:beckham",
+        "items": "elysium:topGun elysium:topGun core:advancedArmor core:advancedShield",
+        "repairer": true,
+        "density": 1,
+
+        "guard": {
+          "hull": "elysium:callum",
+          "items": "federal:dualBlaster core:mediumArmor core:smallShield",
+          "density": 4
+        }
+      },
+      {
+        "hull": "elysium:elysiumStation",
+        "items": "federal:dualBlaster federal:dualBlaster",
+        "repairer": true,
+        "density": 1,
+
+        "guard": {
+          "hull": "elysium:beckham",
+          "items": "federal:dualBlaster federal:heavyCannon core:mediumArmor core:bigShield",
+          "density": 4
+        }
+      }
+    ],
+    "trading": {
+      "items": "elysium:topGun elysium:aquaClip",
+      "ships": "elysium:callum elysium:maxim elysium:malcolm",
+      "mercenaries": [
+        {
+          "hull": "elysium:elysium:malcolm",
+          "items": "3*rep core:smallShield",
+          "money": 175
+        }
+      ]
+    }
+  }
+}
