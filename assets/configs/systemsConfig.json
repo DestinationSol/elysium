@@ -32,7 +32,7 @@
       "ships": "elysium:callum elysium:maxim elysium:malcolm",
       "mercenaries": [
         {
-          "hull": "elysium:elysium:malcolm",
+          "hull": "elysium:malcolm",
           "items": "3*rep core:smallShield",
           "money": 175
         }
