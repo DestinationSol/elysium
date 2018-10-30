@@ -1,0 +1,8 @@
+{
+  "projectile": "aqua",
+  "size": 60,
+  "price": 20,
+  "displayName": "Aqua",
+  "plural": "aquae",
+  "iconName": "aquaClip"
+}

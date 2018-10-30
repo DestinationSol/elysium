@@ -1,0 +1,10 @@
+{
+    "hull": "elysium:elysiumStation",
+    "items": "core:gun core:gun",
+
+    "guard": {
+        "hull": "elysium:beckham",
+        "items": "core:fixedGun core:fixedShotGun core:mediumArmor+core:heavyArmor core:shield+core:bigShield",
+        "density": 3
+    }
+}
