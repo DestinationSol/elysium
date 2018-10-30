@@ -10,19 +10,19 @@
 
         "guard": {
           "hull": "elysium:callum",
-          "items": "federal:dualBlaster core:mediumArmor core:smallShield",
+          "items": "elysium:topGun core:mediumArmor core:smallShield",
           "density": 4
         }
       },
       {
         "hull": "elysium:elysiumStation",
-        "items": "federal:dualBlaster federal:dualBlaster",
+        "items": "elysium:topGun elysium:topGun",
         "repairer": true,
         "density": 1,
 
         "guard": {
           "hull": "elysium:beckham",
-          "items": "federal:dualBlaster federal:heavyCannon core:mediumArmor core:bigShield",
+          "items": "elysium:topGun elysium:topGun core:mediumArmor core:bigShield",
           "density": 4
         }
       }
