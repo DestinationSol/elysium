@@ -12,7 +12,7 @@
   "engine":"core:imperialEngine",
   "gunSlots":[
     {
-      "position":"0.35 0.5",
+      "position":"0.5 0.5",
       "isUnderneathHull":false,
       "allowsRotation":true
     }
