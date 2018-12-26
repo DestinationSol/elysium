@@ -2,7 +2,7 @@
   "aqua": {
     "dmg": 50,
     "dmgType": "energy",
-    "spdLen": 6,
+    "speed": 6,
 
     "tex": "elysium:aqua",
     "texSz": 0.12,
